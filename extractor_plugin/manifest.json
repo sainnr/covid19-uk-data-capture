@@ -1,0 +1,16 @@
+{
+    "manifest_version": 2,
+    "name": "COVID-19 UK Data Extractor",
+    "version": "0.1",
+    "content_scripts": [
+        {
+          "matches": ["<all_urls>"],
+          "js": ["src.js"]
+        }
+    ],
+    "background" : {
+        "scripts" : ["background.js"]
+    },
+    "browser_action": {},
+    "permissions": ["activeTab"]
+}
