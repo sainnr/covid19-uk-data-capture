@@ -1,0 +1,259 @@
+Hampshire: 41
+
+Southwark: 28
+
+Kensington and Chelsea: 27
+
+Lambeth: 25
+
+Westminster: 24
+
+Barnet: 23
+
+Hertfordshire: 21
+
+Oxfordshire: 21
+
+Camden: 19
+
+Ealing: 18
+
+Surrey: 15
+
+Brent: 14
+
+Devon: 14
+
+Sheffield: 13
+
+Buckinghamshire: 13
+
+Hackney and City of London: 11
+
+Kent: 11
+
+Greenwich: 10
+
+Hammersmith and Fulham: 10
+
+Harrow: 10
+
+Hounslow: 10
+
+Brighton and Hove: 9
+
+Manchester: 9
+
+Wolverhampton: 9
+
+Leeds: 9
+
+Haringey: 9
+
+Wandsworth: 9
+
+Cumbria: 9
+
+Derbyshire: 9
+
+Tower Hamlets: 8
+
+Essex: 8
+
+Northamptonshire: 8
+
+Torbay: 7
+
+Trafford: 7
+
+Hillingdon: 7
+
+Wokingham: 6
+
+Oldham: 6
+
+Liverpool: 6
+
+Lewisham: 6
+
+Sutton: 6
+
+Gloucestershire: 6
+
+Lancashire: 6
+
+Nottinghamshire: 6
+
+West Sussex: 6
+
+Nottingham: 5
+
+Windsor and Maidenhead: 5
+
+Wiltshire: 5
+
+Wirral: 5
+
+Newcastle upon Tyne: 5
+
+Birmingham: 5
+
+Barking and Dagenham: 5
+
+Bexley: 5
+
+Bromley: 5
+
+Enfield: 5
+
+Merton: 5
+
+York: 4
+
+Bristol, City of: 4
+
+Cornwall and Isles of Scilly: 4
+
+Bournemouth, Christchurch and Poole: 4
+
+Dudley: 4
+
+Bradford: 4
+
+Cambridgeshire: 4
+
+Leicestershire: 4
+
+Staffordshire: 4
+
+Warwickshire: 4
+
+Derby: 3
+
+Luton: 3
+
+Bracknell Forest: 3
+
+West Berkshire: 3
+
+Reading: 3
+
+Cheshire West and Chester: 3
+
+Shropshire: 3
+
+Bolton: 3
+
+Bury: 3
+
+Stockport: 3
+
+Wigan: 3
+
+Barnsley: 3
+
+Coventry: 3
+
+Calderdale: 3
+
+Islington: 3
+
+Lincolnshire: 3
+
+Stockton-on-Tees: 2
+
+Darlington: 2
+
+East Riding of Yorkshire: 2
+
+Leicester: 2
+
+South Gloucestershire: 2
+
+Swindon: 2
+
+Southend-on-Sea: 2
+
+Medway: 2
+
+Slough: 2
+
+Milton Keynes: 2
+
+Isle of Wight: 2
+
+Rochdale: 2
+
+Tameside: 2
+
+Doncaster: 2
+
+Rotherham: 2
+
+North Tyneside: 2
+
+Havering: 2
+
+Kingston upon Thames: 2
+
+Richmond upon Thames: 2
+
+Waltham Forest: 2
+
+North Yorkshire: 2
+
+Somerset: 2
+
+Worcestershire: 2
+
+Redcar and Cleveland: 1
+
+Warrington: 1
+
+Blackpool: 1
+
+Kingston upon Hull, City of: 1
+
+North Lincolnshire: 1
+
+Herefordshire, County of: 1
+
+Bath and North East Somerset: 1
+
+Plymouth: 1
+
+Peterborough: 1
+
+Portsmouth: 1
+
+County Durham: 1
+
+Cheshire East: 1
+
+Central Bedfordshire: 1
+
+Dorset: 1
+
+St. Helens: 1
+
+Sefton: 1
+
+Sunderland: 1
+
+Walsall: 1
+
+Kirklees: 1
+
+Wakefield: 1
+
+Gateshead: 1
+
+Croydon: 1
+
+Newham: 1
+
+Redbridge: 1
+
+East Sussex: 1
+
+Suffolk: 1

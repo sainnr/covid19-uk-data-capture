@@ -1,0 +1,271 @@
+Hampshire:  69
+
+Southwark:  58
+
+Westminster:  58
+
+Kensington and Chelsea:  49
+
+Lambeth:  43
+
+Hertfordshire:  36
+
+Surrey:  30
+
+Oxfordshire:  25
+
+Barnet:  24
+
+Brent:  24
+
+Devon:  24
+
+Bromley:  23
+
+Hammersmith and Fulham:  23
+
+Tower Hamlets:  23
+
+Buckinghamshire:  23
+
+Hackney and City of London:  22
+
+Cumbria:  22
+
+Ealing:  21
+
+Wandsworth:  21
+
+Essex:  21
+
+Birmingham:  20
+
+Camden:  20
+
+Greenwich:  19
+
+Wolverhampton:  18
+
+Lewisham:  18
+
+Kent:  18
+
+Haringey:  17
+
+Newham:  17
+
+Hillingdon:  16
+
+Harrow:  15
+
+Hounslow:  15
+
+Lancashire:  15
+
+Manchester:  14
+
+Bexley:  14
+
+Walsall:  13
+
+Merton:  13
+
+Nottinghamshire:  13
+
+Nottingham:  12
+
+Slough:  12
+
+Trafford:  12
+
+Cambridgeshire:  12
+
+Northamptonshire:  12
+
+Liverpool:  11
+
+Leeds:  11
+
+Islington:  11
+
+Gloucestershire:  11
+
+Cornwall and Isles of Scilly:  10
+
+Oldham:  10
+
+Stockport:  10
+
+Tameside:  10
+
+Enfield:  10
+
+Sutton:  10
+
+Staffordshire:  10
+
+West Sussex:  10
+
+East Riding of Yorkshire:  9
+
+Windsor and Maidenhead:  9
+
+Brighton and Hove:  9
+
+Dudley:  9
+
+Barking and Dagenham:  9
+
+Bristol, City of:  8
+
+Wokingham:  8
+
+North Yorkshire:  8
+
+Cheshire East:  7
+
+Wiltshire:  7
+
+Bury:  7
+
+Bradford:  7
+
+Havering:  7
+
+Waltham Forest:  7
+
+East Sussex:  7
+
+Leicestershire:  7
+
+South Gloucestershire:  6
+
+Torbay:  6
+
+Central Bedfordshire:  6
+
+Bournemouth, Christchurch and Poole:  6
+
+Wirral:  6
+
+Sandwell:  6
+
+Croydon:  6
+
+Cheshire West and Chester:  5
+
+Bolton:  5
+
+Newcastle upon Tyne:  5
+
+Derbyshire:  5
+
+Somerset:  5
+
+Southend-on-Sea:  4
+
+Medway:  4
+
+Rochdale:  4
+
+Salford:  4
+
+Wigan:  4
+
+Wakefield:  4
+
+Redbridge:  4
+
+Lincolnshire:  4
+
+Warwickshire:  4
+
+Stockton-on-Tees:  3
+
+Halton:  3
+
+Warrington:  3
+
+Blackpool:  3
+
+York:  3
+
+Bath and North East Somerset:  3
+
+North Somerset:  3
+
+Luton:  3
+
+Bracknell Forest:  3
+
+West Berkshire:  3
+
+Reading:  3
+
+Milton Keynes:  3
+
+Portsmouth:  3
+
+Southampton:  3
+
+Sefton:  3
+
+North Tyneside:  3
+
+Coventry:  3
+
+Calderdale:  3
+
+Richmond upon Thames:  3
+
+Norfolk:  3
+
+Suffolk:  3
+
+Plymouth:  2
+
+Swindon:  2
+
+Isle of Wight:  2
+
+Shropshire:  2
+
+Dorset:  2
+
+St. Helens:  2
+
+Barnsley:  2
+
+Kirklees:  2
+
+Redcar and Cleveland:  1
+
+Darlington:  1
+
+Blackburn with Darwen:  1
+
+Kingston upon Hull, City of:  1
+
+North Lincolnshire:  1
+
+Herefordshire, County of:  1
+
+Thurrock:  1
+
+County Durham:  1
+
+Bedford:  1
+
+Knowsley:  1
+
+Rotherham:  1
+
+Sheffield:  1
+
+Sunderland:  1
+
+Solihull:  1
+
+Kingston upon Thames:  1
+
+Worcestershire:  1
