@@ -18,6 +18,13 @@ easily use it in their tools. This includes, but definitely not limited to:
 - retrospective analysis of the outbreak,
 - Open Linked Data initiatives etc.
 
+## Tooling
+The repo includes some basic tooling to quickly scrape data from the UK official dashboard
+(Chrome extension) and some various retrospective sources (assorted Python scripts).
+
+A credit to [this guy](https://github.com/matheusrabelo/chrome-el-extractor) for
+the inspiration to create a Chrome extension.
+
 ## Sources
 ### Department of Health and Social Care UK
 https://twitter.com/DHSCgovuk
@@ -62,10 +69,17 @@ Also, give some credit to this guy: https://docs.google.com/spreadsheets/d/1eTKe
 He's rigorously maintaining the spreadsheet for quite a while; I referring to it a few times
 for cross-checking stats. 
 
+## Related projects
+A few links to other projects that also work hard on representing tracking data in the structured
+way: 
+- US COVID Tracking Project: https://covidtracking.com
+
+Please reach me out if you know more of those.
+
 ## Known issues
-1. UTLA breakdown is missing for 18 March 2020.
-1. In UTLA breakdown, `date` attribute might have varying formats.
-1. Daily "recovered cases" information seems to be stale in the official sources.
+- UTLA breakdown is missing for 18 March 2020.
+- In UTLA breakdown, `date` attribute might have varying formats.
+- Daily "recovered cases" information seems to be stale in the official sources.
 
 ## Ways to help & contribute
 1. Most importantly. do use the data in your experiments and hacks!
