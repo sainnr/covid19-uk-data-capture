@@ -6,6 +6,12 @@ cases, including:
 - daily updates on numbers across Upper Tier Local Authorities (UTLA)
 from [the official dashboard](https://www.arcgis.com/apps/opsdashboard/index.html#/f94c3c90da5b4e9f9a0b19484dd4bb14);
 
+**30 March Update:** looks like the official UK Dashboard now has a link to the historical
+data of all cases including regions breakdown: https://fingertips.phe.org.uk/documents/Historic%20COVID-19%20Dashboard%20Data.xlsx
+
+This is no doubt a great move, but I'll continue tracking daily updates here as well,
+just in case.
+
 ## Motivation
 The goal of the project is to capture the public information published
 by the official UK bodies and represent it in a structured form
