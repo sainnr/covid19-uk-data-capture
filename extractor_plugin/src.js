@@ -51,7 +51,7 @@ const extractUtlaDashboard = () => {
     .querySelectorAll('span.feature-list-item')
     .forEach(el => {
       const [region, value] = el.textContent.split(':')
-      const cur = parseInt(value)
+      const cur = parseInt(value.replace(',', ''))
       res.data[region.trim()] = cur
       sum += cur
       i++
