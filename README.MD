@@ -12,6 +12,39 @@ data of all cases including regions breakdown: https://fingertips.phe.org.uk/doc
 This is no doubt a great move, but I'll continue tracking daily updates here as well,
 just in case.
 
+## Data Structure
+
+### 1. Cases (Daily & Cumulative)
+Two files that include figures published to the `date`, daily & cumulative respectively.
+```
+date | tests | people_tested | positive | deaths
+-----|-------|---------------|----------|-------
+```
+
+Source: https://twitter.com/DHSCgovuk
+
+### 2. Cases Confirmed by UTLAs (regions)
+A JSON file containing metadata & cumulative numbers to the date.
+A filename represents the date of capture.
+
+Source: https://www.arcgis.com/apps/opsdashboard/index.html#/f94c3c90da5b4e9f9a0b19484dd4bb14
+
+### Legacy
+
+#### Cases, retired 6 April 2020
+Included cumulative number of cases (tested, confirmed & fatal) to the `date`.
+```
+date | fatal | recovered | positive | tested
+-----|-------|-----------|----------|-------
+```
+
+#### Tests, retired 6 April 2020
+Included a daily number of tests performed to the `date`.
+```
+date | carried_out | people_tested | testing_capacity
+-----|-------------|---------------|-----------------
+```
+
 ## Motivation
 The goal of the project is to capture the public information published
 by the official UK bodies and represent it in a structured form
